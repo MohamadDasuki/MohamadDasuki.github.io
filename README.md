@@ -16,7 +16,7 @@ You can view a live demo of my Personal Portfolio Website [here](https://mohamad
 
 ## Screenshots
 
-![image](https://github.com/MohamadDasuki/mohamaddasuki.github.io/assets/31790690/fcedef3d-11be-4e95-b4f0-4335e2622535)
+![image](https://github.com/MohamadDasuki/mohamaddasuki.github.io/blob/main/assets/img/projects/personal%20webiste.png)
 
 
 ## Contributing
